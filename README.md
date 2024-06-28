@@ -2,7 +2,7 @@
 # JDWS-03
 
 ![](JDWS-03-1500px.jpg)  
-![](https://img.shields.io/github/downloads/adriaanjelle/JDWS-03/total?style=for-the-badge&logo=github&logoColor=FFFFFF) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/JDWS-03-Updated-2024-06-17-983916190)
+![](https://img.shields.io/github/downloads/adriaanjelle/JDWS-03/total?style=for-the-badge&labelColor=507c98&color=507c98) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/JDWS-03-Updated-2024-06-17-983916190)
 
 JDWS – Jelle Dekkers' Weather Skins – is a collection of weather skins. Each release comes with four skins. Combining them like this saves me a lot of time and hassle whenever I want to update something.
 
